@@ -1,0 +1,28 @@
+{
+  "university": {
+    "name": "HEI",
+    "creation": 2021,
+    "domain": "IT",
+    "nbStudents": 200,
+    "students": [
+      {
+        "reference": "STD0001",
+        "fullName": "Rakoto",
+        "group": {
+          "name": "A1",
+          "academicYear": 2023,
+          "level": "L2"
+        }
+      },
+      {
+        "reference": "STD0002",
+        "fullName": "Rabe",
+        "group": {
+          "name": "A2",
+          "academicYear": 2023,
+          "level": "L3"
+        }
+      }
+    ]
+  }
+}
